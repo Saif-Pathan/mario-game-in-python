@@ -8,3 +8,9 @@ Use key Left to move left
 Press Key S to Speed up the mario and to fire if the mario is powered up 
 Multiplayer is under development....
 Enjoy Coding and Gaming
+
+
+
+Installation
+you need to install pygame package from your cmd.
+Type this command: "pip install pygame"
